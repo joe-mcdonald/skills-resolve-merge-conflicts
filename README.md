@@ -9,7 +9,7 @@
 
 # Resolve merge conflicts
 
-_Learn why conflicts happen and how to resolve them._
+For this, I just followed the steps and waited for the readme to refresh. I didn't have any issues with this and it definetly helped me understand how to handle merges, which I always found confusing previously.
 
 </header>
 
